@@ -28,10 +28,10 @@ https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4D_PCA-UMAP_plo
 
 # Citation: 
 
-AMA Style
+##### AMA Style
 Černý V, Priehodová E, Fortes-Lima C. A Population Genetic Perspective on Subsistence Systems in the Sahel/Savannah Belt of Africa and the Historical Role of Pastoralism. Genes. 2023; 14(3):758. https://doi.org/10.3390/genes14030758
 
-Chicago/Turabian Style
+##### Chicago Style
 Černý, Viktor, Edita Priehodová, and Cesar Fortes-Lima. 2023. "A Population Genetic Perspective on Subsistence Systems in the Sahel/Savannah Belt of Africa and the Historical Role of Pastoralism" Genes 14, no. 3: 758. https://doi.org/10.3390/genes14030758
 
 
