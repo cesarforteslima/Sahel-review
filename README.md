@@ -11,6 +11,7 @@ https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_2.jpg
 https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_3.png
 
 ## Figure 4. Patterns of admixture and population structure across the Sahel belt.
+https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_4.tiff
 
 ### Figure 4A showing map with the geographical locations.
 https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4A_Map.html
