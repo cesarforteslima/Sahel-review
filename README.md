@@ -9,11 +9,7 @@ https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_2.jpg
 
 ## Figure 3. Lactase persistence (LP) genotype in the farmers and pastoralists from the Sahel belt.
 https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_3.png
-
-(https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_3.png | width=100)
-
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_3.png" width="200" height="400" />
-
+!(https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_3.png | width=100)
 
 ## Figure 4. Patterns of admixture and population structure across the Sahel belt.
 https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_4.png
