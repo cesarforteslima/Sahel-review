@@ -2,10 +2,10 @@
 Figures included in Černý et al. 2023
 
 ## Figure 1. Examples of the camps and architecture of nomadic pastoralists in the Sahel belt.
-![](https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_1.png | width=100)
+![](https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_1.png =100x100)
 
 ## Figure 2. Rock art depicting pastoral scenes from Tassili n’Ajjer in Southern Algeria.
-![](https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_2.jpg | width=100)
+![](https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_2.jpg =100x100)
 
 ## Figure 3. Lactase persistence (LP) genotype in the farmers and pastoralists from the Sahel belt.
 ![](https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_3.png | width=100)
