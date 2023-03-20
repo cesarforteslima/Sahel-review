@@ -12,17 +12,17 @@ https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_3.png
 
 ## Figure 4. Patterns of admixture and population structure across the Sahel belt.
 
-### Figure 4A showing map with the geographical locations. See
-https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4A_Map.html
+###   Figure 4A showing map with the geographical locations. See
+   https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4A_Map.html
 
-### Figure 4B showing PCA plot. See
-https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4B_PCA_plot.html
+###   Figure 4B showing PCA plot. See
+   https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4B_PCA_plot.html
 
-### Figure 4C showing ADMIXTURE plot. See
-https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_4C_ADMIXTURE_plot.png
+###   Figure 4C showing ADMIXTURE plot. See
+   https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_4C_ADMIXTURE_plot.png
 
-### Figure 4D showing PCA-UMAP plot. See
-https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4D_PCA-UMAP_plot.html
+###   Figure 4D showing PCA-UMAP plot. See
+   https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4D_PCA-UMAP_plot.html
 
 
 # Citation: 
