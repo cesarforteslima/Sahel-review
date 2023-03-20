@@ -8,7 +8,7 @@ Figures included in Černý et al. 2023
 ![](https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_2.jpg | width=50 | height=50)
 
 ## Figure 3. Lactase persistence (LP) genotype in the farmers and pastoralists from the Sahel belt.
-![](https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_3.png | width=100)
+https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_3.png
 
 ## Figure 4. Patterns of admixture and population structure across the Sahel belt.
 ![](https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_4.png | width=100)
