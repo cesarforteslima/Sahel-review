@@ -2,7 +2,7 @@
 Figures included in Černý et al. 2023
 
 # Figure 4A shows map with the geographical locations. See
-https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4A.html
+https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4A_Map.html
 
 # Figure 4B shows PCA plot. See
 https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4B_PCA_plot.html
