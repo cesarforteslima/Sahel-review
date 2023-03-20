@@ -1,16 +1,16 @@
 # Sahel-review
 Figures included in Černý et al. 2023
 
-# Figure 1. Examples of the camps and architecture of nomadic pastoralists in the Sahel belt.
+## Figure 1. Examples of the camps and architecture of nomadic pastoralists in the Sahel belt.
 https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_1.png
 
-# Figure 2. Rock art depicting pastoral scenes from Tassili n’Ajjer in Southern Algeria.
+## Figure 2. Rock art depicting pastoral scenes from Tassili n’Ajjer in Southern Algeria.
 https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_2.jpg
 
-# Figure 3. Lactase persistence (LP) genotype in the farmers and pastoralists from the Sahel belt.
+## Figure 3. Lactase persistence (LP) genotype in the farmers and pastoralists from the Sahel belt.
 https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_3.png
 
-# Figure 4. Patterns of admixture and population structure across the Sahel belt.
+## Figure 4. Patterns of admixture and population structure across the Sahel belt.
 
 ### Figure 4A showing map with the geographical locations. See
 https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4A_Map.html
@@ -25,6 +25,6 @@ https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_4C_ADMIXTURE_pl
 https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4D_PCA-UMAP_plot.html
 
 
-Citation: 
+# Citation: 
 Černý, V.; Priehodová, E.; Fortes-Lima, C. A Population Genetic Perspective on Subsistence Systems in the Sahel/Savannah Belt of Africa and the Historical Role of Pastoralism.
 
