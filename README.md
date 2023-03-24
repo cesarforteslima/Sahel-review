@@ -13,16 +13,16 @@ https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_3.png
 ## Figure 4. Patterns of admixture and population structure across the Sahel belt.
 https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_4.png
 
-### Figure 4A showing map with the geographical locations.
+### - Figure 4A showing map with the geographical locations.
 https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4A_Map.html
 
-### Figure 4B showing PCA plot.
+### - Figure 4B showing PCA plot.
 https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4B_PCA_plot.html
 
-### Figure 4C showing ADMIXTURE plot.
+### - Figure 4C showing ADMIXTURE plot.
 https://github.com/cesarforteslima/Sahel-review/blob/main/Figure_4C_ADMIXTURE_plot.png
 
-### Figure 4D showing PCA-UMAP plot.
+### - Figure 4D showing PCA-UMAP plot.
 https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4D_PCA-UMAP_plot.html
 
 
@@ -33,5 +33,7 @@ https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4D_PCA-UMAP_plo
 
 ##### Chicago Style
 Černý, Viktor, Edita Priehodová, and Cesar Fortes-Lima. 2023. "A Population Genetic Perspective on Subsistence Systems in the Sahel/Savannah Belt of Africa and the Historical Role of Pastoralism" Genes 14, no. 3: 758. https://doi.org/10.3390/genes14030758
+
+
 
 
