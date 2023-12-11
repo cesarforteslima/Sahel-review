@@ -1,4 +1,4 @@
-## Figures included in Černý et al. 2023
+## Figures included in Černý et al. ***Genes*** 2023
 
 #### [Figure 1. Examples of the camps and architecture of nomadic pastoralists in the Sahel belt.](https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_1.png)
 
