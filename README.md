@@ -12,7 +12,7 @@
 
 #### &emsp;[- Figure 4B. Interactive figure showing PCA plot.](https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4B_PCA_plot.html)
 
-#### &emsp;[- Figure 4C. Figure showing ADMIXTURE plot.](https://raw.githack.com/cesarforteslima/Sahel-review/blob/main/Figure_4C_ADMIXTURE_plot.png)
+#### &emsp;[- Figure 4C. Figure showing ADMIXTURE plot.](https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4C_ADMIXTURE_plot.png) 
 
 #### &emsp;[- Figure 4D. Interactive figure showing PCA-UMAP plot.](https://raw.githack.com/cesarforteslima/Sahel-review/main/Figure_4D_PCA-UMAP_plot.html)
 
